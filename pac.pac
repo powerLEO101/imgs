@@ -1,6 +1,6 @@
     var hasOwnProperty = Object.hasOwnProperty;
-    var proxy =  "PROXY 35.241.109.82:25;";
-    var iproxy =  "PROXY 35.241.109.82:25;";
+    var proxy =  "HTTPS proxy.bbproxy.xyz:443;";
+    var iproxy =  "HTTPS proxy.bbproxy.xyz:443;";
     var list = [
         [
         ],
